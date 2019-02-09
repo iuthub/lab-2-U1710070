@@ -1,0 +1,35 @@
+body{
+    background-color: lightsteelblue;
+}
+h1{
+    text-align: center;
+    font-family: ;
+    color: darkslateblue;
+    font-size: 50px;
+    font-family: monospace;
+}
+p{
+    font-family: Arial;
+}
+h2{
+    color: darkslateblue;
+}
+li{
+    font-family: Georgia;
+}
+b{
+    color: darkorchid;  
+}
+a{
+    color: red;
+}
+div#happy{
+     
+    margin:0 auto;
+}
+div#sad{
+    
+    margin: 300px, auto;
+    position: absolute;
+    
+}
